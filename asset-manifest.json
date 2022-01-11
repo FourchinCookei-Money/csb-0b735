@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://fourchincookei-money.github.io/csb-0b735/static/js/main.6f102560.chunk.js",
+    "main.js.map": "https://fourchincookei-money.github.io/csb-0b735/static/js/main.6f102560.chunk.js.map",
+    "runtime-main.js": "https://fourchincookei-money.github.io/csb-0b735/static/js/runtime-main.6a1498b6.js",
+    "runtime-main.js.map": "https://fourchincookei-money.github.io/csb-0b735/static/js/runtime-main.6a1498b6.js.map",
+    "static/js/2.741893aa.chunk.js": "https://fourchincookei-money.github.io/csb-0b735/static/js/2.741893aa.chunk.js",
+    "static/js/2.741893aa.chunk.js.map": "https://fourchincookei-money.github.io/csb-0b735/static/js/2.741893aa.chunk.js.map",
+    "index.html": "https://fourchincookei-money.github.io/csb-0b735/index.html",
+    "static/js/2.741893aa.chunk.js.LICENSE.txt": "https://fourchincookei-money.github.io/csb-0b735/static/js/2.741893aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1498b6.js",
+    "static/js/2.741893aa.chunk.js",
+    "static/js/main.6f102560.chunk.js"
+  ]
+}
